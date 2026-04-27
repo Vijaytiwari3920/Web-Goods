@@ -19,15 +19,15 @@ Here is a look at the newly designed interface:
 
 ### Hero Section
 *(Showcases the mission statement and the dynamic "Open Positions" card)*
-![Hero Section](./assets/hero-section.png)
+![Hero Section](./assets/1.png)
 
 ### Computing Resources
 *(A responsive grid highlighting the lab's hardware capabilities)*
-![Computing Resources](./assets/computing-resources.png)
+![Computing Resources](./assets/2.png)
 
 ### Research Projects
 *(Interactive project cards with a search filter)*
-![Research Projects](./assets/research-projects.png)
+![Research Projects](./assets/3.png)
 
 > **Note:** To display these screenshots, simply create an `assets/` folder in the root directory and drop your images there, naming them `hero-section.png`, `computing-resources.png`, and `research-projects.png`.
 
